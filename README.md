@@ -12,7 +12,8 @@ ii)  The images subfolders must be contained in a main folder.
 
 
 
-![Screenshot (4)](https://github.com/leelasagarFX/Voice_Text/assets/109415830/88f3c365-af9d-44e6-8f72-6ffa07894e23)
+![Screenshot 2024-04-30 025920](https://github.com/AllamSanjayKumar/Voice-to-Text-Tool/assets/140828860/fb7c23d3-a47d-42e2-9df1-1fff41d8880c)
+
 
 
 
@@ -39,7 +40,8 @@ iii) You can edit the the reply and redirect system in .js source code of Voice 
 
 
 
-![Screenshot (5)](https://github.com/leelasagarFX/Voice_Text/assets/109415830/baa4e199-5874-4dc8-af0e-2b9340d1316f)
+![Uploading Screenshot 2024-04-30 025944.png…]()
+
 
 
 
