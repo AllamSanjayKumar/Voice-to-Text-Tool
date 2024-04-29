@@ -40,8 +40,7 @@ iii) You can edit the the reply and redirect system in .js source code of Voice 
 
 
 
-![Uploading Screenshot 2024-04-30 025944.png…]()
-
+![Screenshot 2024-04-30 025944](https://github.com/AllamSanjayKumar/Voice-to-Text-Tool/assets/140828860/343de9a1-2525-43e4-bc3d-db74cfc7ca19)
 
 
 
